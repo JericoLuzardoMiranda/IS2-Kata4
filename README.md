@@ -1,0 +1,2 @@
+# IS2-Kata4
+Desarrollar una aplicación Java que utilice Maven para la gestión de dependencias y SQLite para la persistencia de datos, con el fin de reimplementar la Kata 2, esta vez cargando los datos desde una base de datos SQLite. Se debe crear una aplicación Java que funcione como una nueva versión de la Kata 2. En lugar de trabajar con datos cargados desde un archivo, la aplicación se conectará a una base de datos SQLite para recuperar los datos que serán procesados y analizados. Se puede incorporar también la visualización de datos que se ha realizado en la Kata 3.
